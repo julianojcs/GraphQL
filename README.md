@@ -1,2 +1,5 @@
+![Juliano Costa](https://raw.githubusercontent.com/julianojcs/julianojcs.github.io/master/apfjuliano.dev.png)
+
 # GraphQL
-Exercices from GraphQL Course with Washington Developer (youtube: https://www.youtube.com/playlist?list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j)
+> Exercices from GraphQL Youtube Course
+- Washington Developer: [Youtube](https://www.youtube.com/playlist?list=PLK5FPzMuRKlyeZYiJNA54j4lpfxHGlz0j)
